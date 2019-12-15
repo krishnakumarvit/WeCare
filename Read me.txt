@@ -1,0 +1,13 @@
+This project is made by Team - Hackin'IT during Hackoff 2.0 at Vit University.
+
+
+Abstract:
+
+WeCare is an IoT based project which provides real-time monitoring and immediate assistance to the patients.
+ This project mainly consists of several microcontrollers which are working together along with various sensors
+ to extract patient parameters like Heartrate, body-temperature and detects if anything wrong goes with the patient, 
+along with the above mentioned this project also monitors the other parameters of the room where the patient is kept. 
+In case of any emergency, the system is capable to call for help by sending text/email messages to the device of the caretaker. 
+This system also provides real-time monitoring and storing the patient details for future medical needs. 
+The components used in this project are Nodemcu microcontroller, DHT11, LM35 sensor, pulse ThingSpeak API. 
+An app is also developed which will show all the parameters in real-time and the emergency notifications will also be received on the application.
